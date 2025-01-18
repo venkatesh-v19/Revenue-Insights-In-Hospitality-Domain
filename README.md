@@ -5,6 +5,10 @@ This project, **Revenue Insights in Hospitality Domain**, focuses on analyzing a
 
 ---
 
+## Preview
+
+![preview](Revenue-Insights-Preview.png)
+
 ## Key Features
 - **Revenue Analysis:** Detailed breakdown of total revenue, revenue per customer, and revenue by service type.
 - **Seasonal Trends:** Identification of revenue fluctuations based on seasonal and monthly trends.
